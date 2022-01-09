@@ -1,0 +1,1090 @@
+﻿Log file open, 03/17/21 15:53:20
+LogInit: Display: Running engine for game: ClashRoyale
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.198990
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: G:/EpicEngine/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Engine.ini]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.03.17-10.53.20:653][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.AnisotropicBRDF:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2021.03.17-10.53.20:654][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Engine.ini]
+[2021.03.17-10.53.20:655][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Engine.ini]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Engine.ini]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.17-10.53.20:655][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Engine.ini]
+[2021.03.17-10.53.20:655][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Engine.ini]
+[2021.03.17-10.53.20:659][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:659][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.17-10.53.20:659][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.17-10.53.20:659][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:659][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.17-10.53.20:659][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:659][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.17-10.53.20:659][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.17-10.53.20:659][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.17-10.53.20:659][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.17-10.53.20:659][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.17-10.53.20:659][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.17-10.53.20:659][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.17-10.53.20:659][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.17-10.53.20:660][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.17-10.53.20:661][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.17-10.53.20:661][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.17-10.53.20:661][  0]LogHAL: Display: Platform has ~ 16 GB [17106169856 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.17-10.53.20:661][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.17-10.53.20:661][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.17-10.53.20:661][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Scalability.ini]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.17-10.53.20:662][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [G:/Projects/Android/ClashRoyale/Saved/Config/Windows/Engine.ini]
+[2021.03.17-10.53.20:663][  0]LogInit: Computer: DESKTOP-BV7M3B8
+[2021.03.17-10.53.20:663][  0]LogInit: User: shado
+[2021.03.17-10.53.20:663][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.03.17-10.53.20:663][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.17-10.53.20:663][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.17-10.53.20:663][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.17-10.53.20:663][  0]LogMemory: Process Physical Memory: 116.60 MB used, 116.61 MB peak
+[2021.03.17-10.53.20:663][  0]LogMemory: Process Virtual Memory: 97.05 MB used, 97.05 MB peak
+[2021.03.17-10.53.20:663][  0]LogMemory: Physical Memory: 7769.93 MB used,  8543.78 MB free, 16313.71 MB total
+[2021.03.17-10.53.20:663][  0]LogMemory: Virtual Memory: 5166.74 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2021.03.17-10.53.21:170][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.17-10.53.21:237][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.17-10.53.21:238][  0]LogInit: Using OS detected language (ru-RU).
+[2021.03.17-10.53.21:238][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.03.17-10.53.21:239][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.03.17-10.53.21:240][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.03.17-10.53.21:240][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.03.17-10.53.21:240][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.03.17-10.53.21:240][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.03.17-10.53.21:240][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.03.17-10.53.21:240][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.03.17-10.53.21:240][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.03.17-10.53.21:241][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.17-10.53.21:278][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.17-10.53.21:278][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.17-10.53.21:447][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.17-10.53.21:447][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.17-10.53.21:447][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.17-10.53.21:447][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.17-10.53.21:558][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2021.03.17-10.53.21:558][  0]LogD3D11RHI:       8031/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.03.17-10.53.21:561][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.17-10.53.21:561][  0]LogD3D11RHI:       0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.17-10.53.21:561][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.17-10.53.21:568][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.17-10.53.21:569][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.17-10.53.21:569][  0]LogWindows: EnumDisplayDevices:
+[2021.03.17-10.53.21:569][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2021.03.17-10.53.21:569][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2021.03.17-10.53.21:570][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.03.17-10.53.21:570][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2021.03.17-10.53.21:570][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.17-10.53.21:570][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2021.03.17-10.53.21:570][  0]LogD3D11RHI:   Driver Version: 461.09 (internal:27.21.14.6109, unified:461.09)
+[2021.03.17-10.53.21:570][  0]LogD3D11RHI:      Driver Date: 12-31-2020
+[2021.03.17-10.53.21:570][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2021.03.17-10.53.21:670][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.17-10.53.21:670][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.17-10.53.21:670][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.17-10.53.21:673][  0]LogD3D11RHI: HDR output is supported on display 1 (NvId: 0x80061086).
+[2021.03.17-10.53.21:697][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.03.17-10.53.21:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.17-10.53.22:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.17-10.53.22:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.17-10.53.22:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.17-10.53.22:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.17-10.53.22:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.17-10.53.22:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.17-10.53.22:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.17-10.53.22:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.17-10.53.22:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.17-10.53.22:008][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.17-10.53.22:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.17-10.53.22:033][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.17-10.53.22:053][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.17-10.53.22:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.17-10.53.22:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.17-10.53.22:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.17-10.53.22:093][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.17-10.53.22:103][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.17-10.53.22:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.17-10.53.22:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.17-10.53.22:149][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.17-10.53.22:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.17-10.53.22:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.17-10.53.22:176][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.17-10.53.22:186][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.17-10.53.22:196][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.17-10.53.22:206][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.17-10.53.22:206][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.17-10.53.22:214][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.17-10.53.22:272][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../Projects/Android/ClashRoyale/Intermediate/Shaders/WorkingDirectory/5128/).
+[2021.03.17-10.53.22:273][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/shado/AppData/Local/Temp/UnrealShaderWorkingDir/7A763FF64DECB630A121A5A2FF8D3D06/'.
+[2021.03.17-10.53.22:273][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.17-10.53.22:273][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.17-10.53.22:273][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.17-10.53.23:087][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.17-10.53.23:138][  0]LogDerivedDataCache: Loaded boot cache 0.05s 75MB C:/Users/shado/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.17-10.53.23:138][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/shado/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.03.17-10.53.23:138][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Projects/Android/ClashRoyale/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.17-10.53.23:138][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.17-10.53.23:138][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Projects/Android/ClashRoyale/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.17-10.53.23:138][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.17-10.53.23:149][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.17-10.53.23:149][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.17-10.53.23:149][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.17-10.53.23:151][  0]LogDerivedDataCache: Using Local data cache path C:/Users/shado/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.17-10.53.23:151][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.17-10.53.23:151][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.17-10.53.23:201][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.17-10.53.23:202][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.17-10.53.23:229][  0]LogAssetRegistry: FAssetRegistry took 0.0043 seconds to start up
+[2021.03.17-10.53.23:466][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.17-10.53.23:570][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.17-10.53.23:570][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.17-10.53.23:570][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.17-10.53.23:570][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.17-10.53.23:570][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.17-10.53.23:585][  0]LogNetVersion: ClashRoyale 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3827123801)
+[2021.03.17-10.53.24:005][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (0000021068C41900), frame # 0
+[2021.03.17-10.53.24:005][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021068BBC7C0), frame # 0
+[2021.03.17-10.53.24:006][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021068BE1E00), frame # 0
+[2021.03.17-10.53.24:037][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.024212 seconds
+[2021.03.17-10.53.24:042][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.03.17-10.53.24:042][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.03.17-10.53.24:042][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.17-10.53.24:372][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.17-10.53.24:376][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.17-10.53.24:453][  0]SourceControl: Source control is disabled
+[2021.03.17-10.53.24:453][  0]SourceControl: Source control is disabled
+[2021.03.17-10.53.24:456][  0]SourceControl: Source control is disabled
+[2021.03.17-10.53.24:460][  0]SourceControl: Source control is disabled
+[2021.03.17-10.53.24:472][  0]SourceControl: Source control is disabled
+[2021.03.17-10.53.24:711][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.17-10.53.24:731][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.17-10.53.24:731][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.17-10.53.24:779][  0]LogOcInput: OculusInput pre-init called
+[2021.03.17-10.53.24:789][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.17-10.53.24:789][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.17-10.53.24:851][  0]LogEngine: Initializing Engine...
+[2021.03.17-10.53.24:852][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.17-10.53.24:852][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.17-10.53.24:853][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.17-10.53.24:965][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.17-10.53.24:971][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.17-10.53.24:972][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002106EE9FC00), frame # 0
+[2021.03.17-10.53.24:972][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002106EF00B80), frame # 0
+[2021.03.17-10.53.24:988][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.17-10.53.24:988][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.17-10.53.24:988][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.17-10.53.24:988][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.17-10.53.24:988][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.17-10.53.24:988][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.17-10.53.24:988][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.17-10.53.24:988][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.17-10.53.24:988][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.17-10.53.24:988][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.17-10.53.24:996][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.17-10.53.24:996][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.17-10.53.24:996][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.17-10.53.24:996][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.17-10.53.24:996][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.03.17-10.53.24:996][  0]LogAudioMixer: Display: 5: BackRight
+[2021.03.17-10.53.24:996][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.03.17-10.53.24:996][  0]LogAudioMixer: Display: 7: SideRight
+[2021.03.17-10.53.25:067][  0]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.03.17-10.53.25:070][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.17-10.53.25:072][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.17-10.53.25:072][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.17-10.53.25:073][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.17-10.53.25:074][  0]LogInit: FAudioDevice initialized.
+[2021.03.17-10.53.25:074][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.17-10.53.25:166][  0]LogDerivedDataCache: Saved boot cache 0.09s 75MB C:/Users/shado/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.17-10.53.25:167][  0]LogInit: Texture streaming: Enabled
+[2021.03.17-10.53.25:182][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.17-10.53.25:182][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.17-10.53.25:184][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.17-10.53.25:228][  0]LogInit: Transaction tracking system initialized
+[2021.03.17-10.53.25:249][  0]BlueprintLog: New page: Editor Load
+[2021.03.17-10.53.25:322][  0]LocalizationService: Localization service is disabled
+[2021.03.17-10.53.25:753][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.17-10.53.25:753][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.17-10.53.25:885][  0]LogFileCache: Scanning file cache for directory 'G:/Projects/Android/ClashRoyale/Content/' took 0.00s
+[2021.03.17-10.53.26:054][  0]SourceControl: Source control is disabled
+[2021.03.17-10.53.26:054][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.788
+[2021.03.17-10.53.26:054][  0]Cmd: MAP LOAD FILE="../../../../../Projects/Android/ClashRoyale/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.17-10.53.26:055][  0]LightingResults: New page: Lighting Build
+[2021.03.17-10.53.26:055][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.53.26:055][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.53.26:055][  0]MapCheck: New page: Map Check
+[2021.03.17-10.53.26:055][  0]LightingResults: New page: Lighting Build
+[2021.03.17-10.53.26:070][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002106EE9FC00), frame # 0
+[2021.03.17-10.53.26:070][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002106EF00B80), frame # 0
+[2021.03.17-10.53.26:071][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.03.17-10.53.26:326][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.03.17-10.53.26:326][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021064247E00), frame # 0
+[2021.03.17-10.53.26:326][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002106160FD80), frame # 0
+[2021.03.17-10.53.26:334][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.17-10.53.26:335][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.03.17-10.53.26:350][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.03.17-10.53.26:350][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.17-10.53.26:350][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,097ms to complete.
+[2021.03.17-10.53.26:350][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.296
+[2021.03.17-10.53.26:352][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.085
+[2021.03.17-10.53.26:465][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-10.53.26:476][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-10.53.26:486][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-10.53.26:495][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-10.53.26:500][  0]LogCollectionManager: Loaded 0 collections in 0.000741 seconds
+[2021.03.17-10.53.26:515][  0]LogFileCache: Scanning file cache for directory 'G:/Projects/Android/ClashRoyale/Saved/Collections/' took 0.00s
+[2021.03.17-10.53.26:515][  0]LogFileCache: Scanning file cache for directory 'G:/Projects/Android/ClashRoyale/Content/Developers/shado/Collections/' took 0.00s
+[2021.03.17-10.53.26:515][  0]LogFileCache: Scanning file cache for directory 'G:/Projects/Android/ClashRoyale/Content/Collections/' took 0.00s
+[2021.03.17-10.53.26:515][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 3427 classes and 821 folders.
+[2021.03.17-10.53.26:517][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.03.17-10.53.26:561][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.17-10.53.26:561][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.03.17-10.53.26:953][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.03.17-10.53.26:954][  0]LogLoad: (Engine Initialization) Total time: 7.69 seconds
+[2021.03.17-10.53.26:954][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.17-10.53.27:007][  0]LogAssetRegistry: Asset discovery search completed in 3.7791 seconds
+[2021.03.17-10.53.27:010][  0]LogRenderer: Reallocating scene render targets to support 64x64 Format 10 NumSamples 1 (Frame:1).
+[2021.03.17-10.53.27:010][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.03.17-10.53.27:013][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.17-10.53.27:022][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.17-10.53.27:024][  0]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.17-10.53.27:029][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.17-10.53.27:088][  0]LogRenderer: Reallocating scene render targets to support 508x504 Format 10 NumSamples 1 (Frame:1).
+[2021.03.17-10.53.27:088][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.17-10.53.27:977][ 79]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.17-10.53.48:848][299]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/BaseBuilding.BaseBuilding
+[2021.03.17-10.53.49:029][299]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2021.03.17-10.53.49:984][299]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Castle.Castle
+[2021.03.17-10.53.50:345][299]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/Tower.Tower
+[2021.03.17-10.53.50:715][299]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Main/MuffinWar/Characters/Muffin/SK_Muffin_Skeleton.SK_Muffin_Skeleton
+[2021.03.17-10.53.50:720][299]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.03.17-10.53.50:882][299]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-10.53.50:883][299]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.03.17-10.53.51:145][299]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Main/MuffinWar/Characters/Muffin/SK_Muffin.SK_Muffin
+[2021.03.17-10.53.51:149][299]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-10.53.51:388][299]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/MuffinWar/Characters/Muffin/Blueprints/BP_Muffin.BP_Muffin
+[2021.03.17-10.53.51:756][299]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/MuffinWar/Blueprints/BP_Player.BP_Player
+[2021.03.17-10.53.52:145][299]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Main/MuffinWar/Characters/Muffin/Blueprints/ABP_Muffin.ABP_Muffin
+[2021.03.17-10.53.52:153][299]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-10.53.52:770][299]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/MainGameMode.MainGameMode
+[2021.03.17-10.53.53:138][299]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/MuffinWar/Blueprints/BP_SpawnArea.BP_SpawnArea
+[2021.03.17-10.53.53:513][299]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Main/MuffinWar/Characters/Muffin/M_Muffin.M_Muffin
+[2021.03.17-10.53.53:514][299]LogMaterial: Display: Missing cached shader map for material M_Muffin, compiling. 
+[2021.03.17-10.53.53:613][299]LogMaterial: Display: Missing cached shader map for material M_Muffin, compiling. 
+[2021.03.17-10.53.53:629][299]LogMaterial: Display: Missing cached shader map for material M_Muffin, compiling. 
+[2021.03.17-10.53.53:653][299]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2021.03.17-10.53.53:653][299]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 26
+[2021.03.17-10.53.53:653][299]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2021.03.17-10.53.53:653][299]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2021.03.17-10.53.53:653][299]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2021.03.17-10.53.53:653][299]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2021.03.17-10.53.53:654][299]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2021.03.17-10.53.53:654][299]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2021.03.17-10.53.53:656][299]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.03.17-10.53.53:722][299]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/MuffinWar/Characters/Muffin/AI/AIC_Muffin.AIC_Muffin
+[2021.03.17-10.53.54:272][299]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2021.03.17-10.53.54:272][299]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2021.03.17-10.53.54:362][299]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.03.17-10.53.54:367][299]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2021.03.17-10.53.54:377][299]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/Main/MuffinWar/Characters/Muffin/AI/BB_Muffin.BB_Muffin
+[2021.03.17-10.53.54:425][299]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2021.03.17-10.53.54:425][299]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 18
+[2021.03.17-10.53.54:425][299]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2021.03.17-10.53.54:476][299]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2021.03.17-10.53.54:476][299]LogBlueprint: Warning: [Compiler BTTask_Attack] Could not find a variable named "IsAttacking" in 'BTTask_Attack'.
+Make sure 'BTTask_Attack' has been compiled for  Set IsAttacking
+[2021.03.17-10.53.54:476][299]LogBlueprint: Error: [Compiler BTTask_Attack] Can't connect pins  Object  and  Controlled Pawn : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.03.17-10.53.54:476][299]LogBlueprint: Error: [Compiler BTTask_Attack] In use pin  As BP Muffin  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.03.17-10.53.54:476][299]LogBlueprint: Error: [Compiler BTTask_Attack] Can't connect pins  Controlled Pawn  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.03.17-10.53.54:477][299]LogBlueprint: Error: [Compiler BTTask_Attack] The property associated with  Is Attacking  could not be found in '/Game/Main/MuffinWar/Characters/Muffin/AI/BTTask_Attack.BTTask_Attack_C'
+[2021.03.17-10.53.54:510][299]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Main/MuffinWar/Characters/Muffin/AI/BT_Muffin.BT_Muffin
+[2021.03.17-10.53.54:551][299]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.03.17-10.53.54:551][299]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_0, make sure that behavior tree specifies blackboard asset!
+[2021.03.17-10.53.54:551][299]LogBehaviorTree: Warning: Can't initialize BTDecorator_Blackboard_0 due to missing blackboard data.
+[2021.03.17-10.53.54:551][299]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_1, make sure that behavior tree specifies blackboard asset!
+[2021.03.17-10.53.54:551][299]LogBehaviorTree: Warning: Can't initialize task: BTTask_RotateToFaceBBEntry_0, make sure that behavior tree specifies blackboard asset!
+[2021.03.17-10.53.54:637][299]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/MuffinWar/Characters/Muffin/AI/BTTask_Attack.BTTask_Attack
+[2021.03.17-10.53.55:229][299]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.03.17-10.53.55:229][299]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2021.03.17-10.53.55:229][299]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.03.17-10.53.55:229][299]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.03.17-10.53.55:229][299]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.03.17-10.53.55:229][299]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.03.17-10.53.55:229][299]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.03.17-10.53.55:229][299]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.03.17-10.53.55:229][299]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.03.17-10.53.55:972][299]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.03.17-10.53.55:972][299]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.03.17-10.53.55:972][299]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.03.17-10.53.55:972][299]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.03.17-10.53.55:972][299]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.03.17-10.53.56:047][299]MaterialEditorStats: Base pass shader: 113 instructions
+[2021.03.17-10.53.56:047][299]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2021.03.17-10.53.56:047][299]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2021.03.17-10.53.56:047][299]MaterialEditorStats: Base pass vertex shader: 87 instructions
+[2021.03.17-10.53.56:047][299]MaterialEditorStats: Texture samplers: 3/16
+[2021.03.17-10.53.56:047][299]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.03.17-10.53.56:047][299]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.03.17-10.53.56:056][299]LogSlate: Took 0.000379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.17-10.53.56:105][299]LogSlate: Took 0.000324 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.17-10.53.56:123][300]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.17-10.53.59:775][531]LogRenderer: Reallocating scene render targets to support 508x508 Format 10 NumSamples 1 (Frame:1317).
+[2021.03.17-10.53.59:826][531]LogRenderer: Reallocating scene render targets to support 512x516 Format 10 NumSamples 1 (Frame:1318).
+[2021.03.17-10.53.59:872][531]LogRenderer: Reallocating scene render targets to support 524x528 Format 10 NumSamples 1 (Frame:1319).
+[2021.03.17-10.53.59:930][531]LogRenderer: Reallocating scene render targets to support 536x536 Format 10 NumSamples 1 (Frame:1320).
+[2021.03.17-10.53.59:982][531]LogRenderer: Reallocating scene render targets to support 544x540 Format 10 NumSamples 1 (Frame:1321).
+[2021.03.17-10.54.00:034][531]LogRenderer: Reallocating scene render targets to support 548x548 Format 10 NumSamples 1 (Frame:1322).
+[2021.03.17-10.54.00:126][531]LogRenderer: Reallocating scene render targets to support 552x552 Format 10 NumSamples 1 (Frame:1324).
+[2021.03.17-10.54.00:171][531]LogRenderer: Reallocating scene render targets to support 552x556 Format 10 NumSamples 1 (Frame:1325).
+[2021.03.17-10.54.00:844][531]LogRenderer: Reallocating scene render targets to support 552x560 Format 10 NumSamples 1 (Frame:1330).
+[2021.03.17-10.54.16:808][687]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.17-10.54.16:808][687]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.17-10.54.38:895][856]BlueprintLog: New page: Compile BTTask_Attack
+[2021.03.17-10.54.38:974][856]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2021.03.17-10.54.39:457][897]LogSavePackage: Moving '../../../../../Projects/Android/ClashRoyale/Saved/BTTask_AttackB101989C40E55EB6AC9B07A06E266C40.tmp' to '../../../../../Projects/Android/ClashRoyale/Content/Main/MuffinWar/Characters/Muffin/AI/BTTask_Attack.uasset'
+[2021.03.17-10.54.39:469][897]AssetCheck: New page: Asset Save: BTTask_Attack
+[2021.03.17-10.54.39:469][897]LogContentValidation: Display: Validating Blueprint /Game/Main/MuffinWar/Characters/Muffin/AI/BTTask_Attack.BTTask_Attack
+[2021.03.17-10.54.40:194][970]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.17-10.54.40:210][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.17-10.54.40:211][970]PIE: New page: PIE session: TopDownExampleMap (17 мар. 2021 г., 20:54:40)
+[2021.03.17-10.54.40:212][970]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.17-10.54.40:212][970]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.17-10.54.40:212][970]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.03.17-10.54.40:226][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013877s)
+[2021.03.17-10.54.40:227][970]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.03.17-10.54.40:227][970]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002100BC2C600), frame # 4970
+[2021.03.17-10.54.40:227][970]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002100CE847C0), frame # 4970
+[2021.03.17-10.54.40:228][970]LogPlayLevel: PIE: World Init took: (0.001400s)
+[2021.03.17-10.54.40:228][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.015436s)
+[2021.03.17-10.54.40:267][970]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.03.17-10.54.40:269][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.17-10.54.40:269][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.17-10.54.40:269][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.17-10.54.40:269][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.17-10.54.40:269][970]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.17-10.54.40:269][970]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.17-10.54.40:269][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.17-10.54.40:269][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.17-10.54.40:270][970]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.17-10.54.40:270][970]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.17-10.54.40:275][970]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.17-10.54.40:275][970]LogAudioMixer: Display: 1: FrontRight
+[2021.03.17-10.54.40:275][970]LogAudioMixer: Display: 2: FrontCenter
+[2021.03.17-10.54.40:275][970]LogAudioMixer: Display: 3: LowFrequency
+[2021.03.17-10.54.40:275][970]LogAudioMixer: Display: 4: BackLeft
+[2021.03.17-10.54.40:275][970]LogAudioMixer: Display: 5: BackRight
+[2021.03.17-10.54.40:275][970]LogAudioMixer: Display: 6: SideLeft
+[2021.03.17-10.54.40:275][970]LogAudioMixer: Display: 7: SideRight
+[2021.03.17-10.54.40:333][970]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.03.17-10.54.40:333][970]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.17-10.54.40:333][970]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.17-10.54.40:333][970]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.17-10.54.40:334][970]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.17-10.54.40:346][970]LogInit: FAudioDevice initialized.
+[2021.03.17-10.54.40:352][970]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.03.17-10.54.40:354][970]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.03.17-15.54.40
+[2021.03.17-10.54.40:354][970]LogWorld: Bringing up level for play took: 0.001394
+[2021.03.17-10.54.40:355][970]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.03.17-10.54.40:369][970]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.03.17-10.54.40:369][970]PIE: Server logged in
+[2021.03.17-10.54.40:370][970]PIE: Play in editor total start time 0,164 seconds.
+[2021.03.17-10.55.06:352][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-10.55.06:352][673]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.03.17-10.55.06:352][673]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.55.06:352][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.55.06:363][673]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.17-10.55.06:368][673]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.55.06:426][673]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.17-10.55.06:436][673]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002100CE847C0), frame # 7673
+[2021.03.17-10.55.06:436][673]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002100BC2C600), frame # 7673
+[2021.03.17-10.55.06:468][673]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.03.17-10.55.06:501][674]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.03.17-10.55.41:860][586]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MuffinWar/Blueprints/BP_SpawnArea.
+[2021.03.17-10.55.41:883][586]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MuffinWar/Characters/Muffin/Blueprints/BP_Muffin.
+[2021.03.17-10.55.41:886][586]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MuffinWar/Characters/Muffin/Blueprints/ABP_Muffin.
+[2021.03.17-10.55.41:890][586]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MuffinWar/Characters/Muffin/AI/AIC_Muffin.
+[2021.03.17-10.55.41:899][586]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MuffinWar/Characters/Muffin/AI/BTService_SetRandomLocation.
+[2021.03.17-10.55.41:902][586]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MuffinWar/Characters/Muffin/AI/BTTask_Attack.
+[2021.03.17-10.55.41:914][586]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MuffinWar/Blueprints/BP_Player.
+[2021.03.17-10.55.41:917][586]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MuffinWar/Blueprints/GM_Tutorial.
+[2021.03.17-10.55.41:935][586]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MuffinWar/Maps/TutorialMap.
+[2021.03.17-10.56.18:281][194]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MuffinWar/Characters/Muffin/Animations/SK_Muffin_Attack.SK_Muffin_Attack
+[2021.03.17-10.56.18:302][194]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-10.56.19:003][194]LogRenderer: Reallocating scene render targets to support 1012x748 Format 10 NumSamples 1 (Frame:1).
+[2021.03.17-10.56.19:003][194]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.17-10.56.21:164][357]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.56.21:164][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.56.21:197][357]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.56.21:198][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.56.21:298][357]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.56.21:298][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.56.22:885][503]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MuffinWar/Characters/Muffin/Animations/SK_Muffin_Death.SK_Muffin_Death
+[2021.03.17-10.56.22:892][503]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-10.56.23:228][503]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.17-10.56.24:958][627]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.56.24:958][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.56.24:985][627]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.56.24:985][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.56.25:068][627]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.56.25:068][627]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.56.26:234][733]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MuffinWar/Characters/Muffin/Animations/SK_Muffin_Idle.SK_Muffin_Idle
+[2021.03.17-10.56.26:239][733]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-10.56.26:570][733]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.17-10.56.28:477][877]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.56.28:477][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.56.28:509][877]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.56.28:509][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.56.28:589][877]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.56.28:589][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.56.32:504][235]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/MuffinWar/Characters/Muffin/Animations/SK_Muffin_Walk.SK_Muffin_Walk
+[2021.03.17-10.56.32:510][235]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-10.56.32:857][235]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.17-10.56.34:258][335]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.56.34:258][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.56.34:288][335]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.56.34:288][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.56.34:369][335]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.56.34:369][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.56.35:643][448]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/MuffinWar/Characters/Muffin/Animations/BS_IdleWalk.BS_IdleWalk
+[2021.03.17-10.56.35:649][448]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.03.17-10.56.35:964][448]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.03.17-10.56.38:178][624]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.56.38:178][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.56.38:275][624]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.56.38:276][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.56.42:457][ 24]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MuffinWar/Characters/Muffin/AI/AIC_Muffin.AIC_Muffin
+[2021.03.17-10.56.55:481][999]LogUObjectHash: Compacting FUObjectHashTables data took   6.46ms
+[2021.03.17-10.57.06:898][999]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.17-10.57.11:493][999]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.57.11:493][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.57.11:605][999]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.57.11:605][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.57.11:637][999]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.57.11:637][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.57.11:644][999]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.57.11:644][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.57.11:687][999]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.03.17-10.57.11:687][999]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.57.11:687][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.57.11:737][999]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.03.17-10.57.11:737][999]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.57.11:737][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.57.11:788][999]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.03.17-10.57.11:788][999]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.57.11:788][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.57.11:905][999]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.57.11:905][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.57.11:993][999]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.57.11:993][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.57.12:034][999]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.57.12:034][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.57.12:063][999]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.03.17-10.57.12:064][999]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.57.12:064][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.57.12:116][999]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.03.17-10.57.12:116][999]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.17-10.57.12:185][999]LogUObjectGlobals: Force Deleting 18 Package(s):
+	Asset Name: /Game/Main/MuffinWar/Blueprints/BP_SpawnArea.BP_SpawnArea
+	Asset Name: /Game/Main/MuffinWar/Characters/Muffin/T_Muffin_D.T_Muffin_D
+	Asset Name: /Game/Main/MuffinWar/Characters/Muffin/M_Muffin.M_Muffin
+	Asset Name: /Game/Main/MuffinWar/Characters/Muffin/SK_Muffin_Skeleton.SK_Muffin_Skeleton
+	Asset Name: /Game/Main/MuffinWar/Characters/Muffin/SK_Muffin.SK_Muffin
+	Asset Name: /Game/Main/MuffinWar/Characters/Muffin/Blueprints/BP_Muffin.BP_Muffin
+	Asset Name: /Game/Main/MuffinWar/Characters/Muffin/AI/AIC_Muffin.AIC_Muffin
+	Asset Name: /Game/Main/MuffinWar/Blueprints/BP_Player.BP_Player
+	Asset Name: /Game/Main/MuffinWar/Characters/Muffin/Animations/SK_Muffin_Attack.SK_Muffin_Attack
+	Asset Name: /Game/Main/MuffinWar/Characters/Muffin/Animations/SK_Muffin_Death.SK_Muffin_Death
+[2021.03.17-10.57.12:753][999]LogMaterial: Display: Missing cached shader map for material M_Muffin, compiling. 
+[2021.03.17-10.57.12:754][999]LogMaterial: Warning: G:\Projects\Android\ClashRoyale\Content\Main\MuffinWar\Characters\Muffin\M_Muffin.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.17-10.57.12:754][999]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.17-10.57.12:764][999]LogMaterial: Display: Missing cached shader map for material M_Muffin, compiling. 
+[2021.03.17-10.57.12:764][999]LogMaterial: Warning: /Engine/Transient.M_Muffin (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.17-10.57.12:764][999]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.17-10.57.12:765][999]LogMaterial: Display: Missing cached shader map for material M_Muffin, compiling. 
+[2021.03.17-10.57.12:765][999]LogMaterial: Warning: /Engine/Transient.M_Muffin (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.17-10.57.12:765][999]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.17-10.57.12:766][999]LogMaterial: Display: Missing cached shader map for material M_Muffin, compiling. 
+[2021.03.17-10.57.12:767][999]LogMaterial: Warning: /Engine/Transient.M_Muffin (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.17-10.57.12:767][999]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.17-10.57.12:767][999]LogMaterial: Display: Missing cached shader map for material M_Muffin, compiling. 
+[2021.03.17-10.57.12:768][999]LogMaterial: Warning: /Engine/Transient.M_Muffin (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.17-10.57.12:768][999]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.17-10.57.12:769][999]LogMaterial: Display: Missing cached shader map for material M_Muffin, compiling. 
+[2021.03.17-10.57.12:769][999]LogMaterial: Warning: /Engine/Transient.M_Muffin (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.17-10.57.12:769][999]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.17-10.57.12:770][999]LogMaterial: Display: Missing cached shader map for material M_Muffin, compiling. 
+[2021.03.17-10.57.12:770][999]LogMaterial: Warning: /Engine/Transient.M_Muffin (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.17-10.57.12:770][999]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.17-10.57.12:836][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.03.17-10.57.14:872][999]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.17-10.57.15:182][999]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.310 s
+[2021.03.17-10.57.15:182][999]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.17-10.57.15:182][999]LogOutputDevice: Error: 
+[2021.03.17-10.57.15:182][999]LogOutputDevice: Error: Ensure condition failed: CurObject != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2835]
+[2021.03.17-10.57.15:182][999]LogOutputDevice: Error: 
+[2021.03.17-10.57.15:182][999]LogOutputDevice: Error: Stack: 
+[2021.03.17-10.57.15:182][999]LogOutputDevice: Error: [Callstack] 0x00007fff86edefa9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.17-10.57.15:182][999]LogOutputDevice: Error: [Callstack] 0x00007fff867c692b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.17-10.57.15:182][999]LogOutputDevice: Error: [Callstack] 0x00007fff85f79e39 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.17-10.57.15:182][999]LogOutputDevice: Error: [Callstack] 0x00007fff8621d43e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.17-10.57.15:182][999]LogOutputDevice: Error: [Callstack] 0x00007fff86216dc7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.17-10.57.15:182][999]LogOutputDevice: Error: [Callstack] 0x00007fff87b9207e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff87bab27e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff879f2dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff87a769cf UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff87a5f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff87a52392 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffaf067f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffaf055c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffaf06a619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffaf0517d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffe513e858 USER32.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffe513e299 USER32.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffaf06b9d9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff87a80d5d UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff87a1bdb7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff862af00e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff867baf1c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff7350d838 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff7361ed69 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff73618282 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff73577f72 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff73516847 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff87b9207e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff87bab27e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff879f2dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff87a769cf UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff87a5f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fff87a52392 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffaf067f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffaf055c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffaf06a619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffaf0517d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffe513e858 USER32.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffe513e299 USER32.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffaf06bb34 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007ff6a64968c4 UE4Editor.exe!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007ff6a64aba7c UE4Editor.exe!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007ff6a64abb5a UE4Editor.exe!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007ff6a64be31d UE4Editor.exe!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007ff6a64c145a UE4Editor.exe!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffe6bb7034 KERNEL32.DLL!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: [Callstack] 0x00007fffe70a2651 ntdll.dll!UnknownFunction []
+[2021.03.17-10.57.15:183][999]LogOutputDevice: Error: 
