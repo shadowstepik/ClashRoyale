@@ -39,7 +39,7 @@ public: \
 	NO_API AAdvancedGameSession(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AAdvancedGameSession) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AAdvancedGameSession); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AAdvancedGameSession); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AAdvancedGameSession); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AAdvancedGameSession(AAdvancedGameSession&&); \
@@ -56,7 +56,7 @@ private: \
 	NO_API AAdvancedGameSession(const AAdvancedGameSession&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, AAdvancedGameSession); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AAdvancedGameSession); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AAdvancedGameSession); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AAdvancedGameSession)
 
 

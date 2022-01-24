@@ -51,7 +51,7 @@ public: \
 	ADVANCEDSESSIONS_API UCreateSessionCallbackProxyAdvanced(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UCreateSessionCallbackProxyAdvanced) \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(ADVANCEDSESSIONS_API, UCreateSessionCallbackProxyAdvanced); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UCreateSessionCallbackProxyAdvanced); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UCreateSessionCallbackProxyAdvanced); \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ADVANCEDSESSIONS_API UCreateSessionCallbackProxyAdvanced(UCreateSessionCallbackProxyAdvanced&&); \
@@ -68,7 +68,7 @@ private: \
 	ADVANCEDSESSIONS_API UCreateSessionCallbackProxyAdvanced(const UCreateSessionCallbackProxyAdvanced&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(ADVANCEDSESSIONS_API, UCreateSessionCallbackProxyAdvanced); \
-DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UCreateSessionCallbackProxyAdvanced); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UCreateSessionCallbackProxyAdvanced); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UCreateSessionCallbackProxyAdvanced)
 
 
