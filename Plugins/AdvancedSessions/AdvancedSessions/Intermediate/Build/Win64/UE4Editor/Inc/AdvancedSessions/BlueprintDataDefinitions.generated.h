@@ -13,35 +13,55 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define ADVANCEDSESSIONS_BlueprintDataDefinitions_generated_h
 
+<<<<<<< Updated upstream
 #define HostProject_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_310_GENERATED_BODY \
+=======
+#define ClashRoyale_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_336_GENERATED_BODY \
+>>>>>>> Stashed changes
 	friend struct Z_Construct_UScriptStruct_FSessionsSearchSetting_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
 
 template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FSessionsSearchSetting>();
 
+<<<<<<< Updated upstream
 #define HostProject_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_299_GENERATED_BODY \
+=======
+#define ClashRoyale_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_325_GENERATED_BODY \
+>>>>>>> Stashed changes
 	friend struct Z_Construct_UScriptStruct_FSessionPropertyKeyPair_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
 
 template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FSessionPropertyKeyPair>();
 
+<<<<<<< Updated upstream
 #define HostProject_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_263_GENERATED_BODY \
+=======
+#define ClashRoyale_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_282_GENERATED_BODY \
+>>>>>>> Stashed changes
 	friend struct Z_Construct_UScriptStruct_FBPFriendInfo_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
 
 template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPFriendInfo>();
 
+<<<<<<< Updated upstream
 #define HostProject_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_238_GENERATED_BODY \
+=======
+#define ClashRoyale_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_249_GENERATED_BODY \
+>>>>>>> Stashed changes
 	friend struct Z_Construct_UScriptStruct_FBPFriendPresenceInfo_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 
 
 template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPFriendPresenceInfo>();
 
+<<<<<<< Updated upstream
 #define HostProject_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_227_GENERATED_BODY \
+=======
+#define ClashRoyale_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_238_GENERATED_BODY \
+>>>>>>> Stashed changes
 	friend struct Z_Construct_UScriptStruct_FBPOnlineRecentPlayer_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct(); \
 	typedef FBPOnlineUser Super;
@@ -49,7 +69,11 @@ template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPFriendPres
 
 template<> ADVANCEDSESSIONS_API UScriptStruct* StaticStruct<struct FBPOnlineRecentPlayer>();
 
+<<<<<<< Updated upstream
 #define HostProject_Plugins_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_213_GENERATED_BODY \
+=======
+#define ClashRoyale_Plugins_AdvancedSessions_AdvancedSessions_Source_AdvancedSessions_Classes_BlueprintDataDefinitions_h_224_GENERATED_BODY \
+>>>>>>> Stashed changes
 	friend struct Z_Construct_UScriptStruct_FBPOnlineUser_Statics; \
 	ADVANCEDSESSIONS_API static class UScriptStruct* StaticStruct();
 

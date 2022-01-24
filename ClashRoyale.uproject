@@ -1,8 +1,22 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.25",
+	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
+<<<<<<< Updated upstream
+=======
+	"Modules": [
+		{
+			"Name": "ClashRoyale",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"GameplayAbilities"
+			]
+		}
+	],
+>>>>>>> Stashed changes
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",

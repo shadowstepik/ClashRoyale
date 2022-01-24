@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_425_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
 D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_425_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
 D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_425_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
@@ -19,3 +20,26 @@ D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_425
 D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_425_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
 D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_425_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
 D:\Documents\Unreal Projects\VRExpPluginExp\COMPPLUGIN\PluginStaging_ALL\UE4_425_AS\HostProject\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
+=======
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsInterface.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsGameInstance.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedExternalUILibrary.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedGameSession.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedFriendsLibrary.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedIdentityLibrary.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedSessionsLibrary.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\BlueprintDataDefinitions.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CancelFindSessionsCallbackProxy.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\AdvancedVoiceLibrary.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\CreateSessionCallbackProxyAdvanced.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetRecentPlayersCallbackProxy.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\EndSessionCallbackProxy.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetFriendsCallbackProxy.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindSessionsCallbackProxyAdvanced.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\FindFriendSessionCallbackProxy.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\GetUserPrivilegeCallbackProxy.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LoginUserCallbackProxy.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\LogoutUserCallbackProxy.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\SendFriendInviteCallbackProxy.h
+G:\Projects\Android\ClashRoyale\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes\UpdateSessionCallbackProxyAdvanced.h
+>>>>>>> Stashed changes
